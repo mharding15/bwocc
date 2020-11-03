@@ -1,1 +1,1 @@
-"# bwocc" 
+This is project is a substring query lookup that uses an occurrence table which contains a bit vector for each character in the Burrows Wheeler Transform. Rank and Select operations are used to efficiently search for occurrences of a string within some reference string (generally genomes).
