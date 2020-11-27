@@ -18,3 +18,5 @@ The rank_support class has a constructor which takes as an argument a bit_vector
 	- uint64_t overhead(): get the number of bits necessary to store the rank_support structure.
 	- void save(string& fname): save the rank_support structure to a file.
 	- void load(string& fname): load the rank_support structure from a file.
+
+edit......
